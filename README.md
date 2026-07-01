@@ -2,7 +2,7 @@
 
 A Lua script for OBS Studio that overlays a live-updating salary counter on your scene. Enter your annual salary; the overlay ticks up in real time so you can see exactly what a meeting is costing.
 
-https://github.com/sidouglas/obs-salary-counter/raw/main/employer-vs-employee.mp4
+https://github.com/user-attachments/assets/2f67fa5a-af71-4e01-ab35-f3a21d148a03
 
 > **Inspired by** this r/theydidthemath post — [_[Request] Is this financially accurate?_](https://www.reddit.com/r/theydidthemath/comments/1j16pjw/request_is_this_financially_accurate/)
 
